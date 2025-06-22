@@ -8,7 +8,6 @@ Sistema web completo para gerenciamento do currículo de um professor, incluindo
 - **Django REST Framework**
 - **JWT Authentication**
 - **SQLite** (banco de dados relacional)
-- **React** (frontend separado - Professora_Web)
 
 ## 📁 Funcionalidades
 
